@@ -1,0 +1,2204 @@
+{
+  "cards": [
+    {
+      "name": "Woobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/032/high.png"
+    },
+    {
+      "name": "Annihilape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/171/high.png"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/030/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Lanturn",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/021/high.png"
+    },
+    {
+      "name": "Scrafty",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/061/high.png"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/008/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Spiritomb",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/158/high.png"
+    },
+    {
+      "name": "Barboach",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/050/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Magmar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/009/high.png"
+    },
+    {
+      "name": "Houndstone",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/043/high.png"
+    },
+    {
+      "name": "Numel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/011/high.png"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/022/high.png"
+    },
+    {
+      "name": "Primeape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/046/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Lapras",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/016/high.png"
+    },
+    {
+      "name": "Tinkatink",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/165/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Raichu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/019/high.png"
+    },
+    {
+      "name": "Chinchou",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/020/high.png"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/022/high.png"
+    },
+    {
+      "name": "Maushold",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/074/high.png"
+    },
+    {
+      "name": "Scrafty",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/061/high.png"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/022/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Maschiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062/high.png"
+    },
+    {
+      "name": "Oricorio",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/113/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Paldean Wooper",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/058/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Wugtrio",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/224/high.png"
+    },
+    {
+      "name": "Houndstone",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/043/high.png"
+    },
+    {
+      "name": "Primeape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/170/high.png"
+    },
+    {
+      "name": "Phanpy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/048/high.png"
+    },
+    {
+      "name": "Armarouge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/015/high.png"
+    },
+    {
+      "name": "Frigibax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/017/high.png"
+    },
+    {
+      "name": "Whimsicott",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/035/high.png"
+    },
+    {
+      "name": "Frigibax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/017/high.png"
+    },
+    {
+      "name": "Camerupt",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/012/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/030/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Squawkabilly ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/075/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Mime Jr.",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/031/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png"
+    },
+    {
+      "name": "Barboach",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/050/high.png"
+    },
+    {
+      "name": "Gastly",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/055/high.png"
+    },
+    {
+      "name": "Primeape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/046/high.png"
+    },
+    {
+      "name": "Greavard",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/042/high.png"
+    },
+    {
+      "name": "Hoppip",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/096/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/041/high.png"
+    },
+    {
+      "name": "Gholdengo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/067/high.png"
+    },
+    {
+      "name": "Cyclizar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/070/high.png"
+    },
+    {
+      "name": "Dachsbun",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/039/high.png"
+    },
+    {
+      "name": "Varoom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/064/high.png"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/010/high.png"
+    },
+    {
+      "name": "Gastly",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/055/high.png"
+    },
+    {
+      "name": "Primeape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/046/high.png"
+    },
+    {
+      "name": "Bisharp",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/186/high.png"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/030/high.png"
+    },
+    {
+      "name": "Xatu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/026/high.png"
+    },
+    {
+      "name": "Houndstone",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/043/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png"
+    },
+    {
+      "name": "Magmar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/009/high.png"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png"
+    },
+    {
+      "name": "Clobbopus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/051/high.png"
+    },
+    {
+      "name": "Charcadet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/014/high.png"
+    },
+    {
+      "name": "Flamigo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/211/high.png"
+    },
+    {
+      "name": "Mimikyu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/037/high.png"
+    },
+    {
+      "name": "Cyclizar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/070/high.png"
+    },
+    {
+      "name": "Barboach",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/050/high.png"
+    },
+    {
+      "name": "Lechonk",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/071/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Gastly",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/055/high.png"
+    },
+    {
+      "name": "Barboach",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/050/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png"
+    },
+    {
+      "name": "Chinchou",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/020/high.png"
+    },
+    {
+      "name": "Glimmet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/179/high.png"
+    },
+    {
+      "name": "Maushold",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/074/high.png"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/033/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Mimikyu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/037/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png"
+    },
+    {
+      "name": "Numel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/011/high.png"
+    },
+    {
+      "name": "Maractus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/003/high.png"
+    },
+    {
+      "name": "Scraggy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/060/high.png"
+    },
+    {
+      "name": "Barboach",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/050/high.png"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/146/high.png"
+    },
+    {
+      "name": "Greavard",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/042/high.png"
+    },
+    {
+      "name": "Gholdengo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/067/high.png"
+    },
+    {
+      "name": "Varoom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/064/high.png"
+    },
+    {
+      "name": "Raichu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/019/high.png"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png"
+    },
+    {
+      "name": "Palafin",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/225/high.png"
+    },
+    {
+      "name": "Scrafty",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/061/high.png"
+    },
+    {
+      "name": "Maractus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/003/high.png"
+    },
+    {
+      "name": "Ralts",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/027/high.png"
+    },
+    {
+      "name": "Luxray",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/137/high.png"
+    },
+    {
+      "name": "Mimikyu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/037/high.png"
+    },
+    {
+      "name": "Primeape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/046/high.png"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/030/high.png"
+    },
+    {
+      "name": "Lechonk",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/071/high.png"
+    },
+    {
+      "name": "Paldean Wooper",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/058/high.png"
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/high.png"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/040/high.png"
+    },
+    {
+      "name": "Maschiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062/high.png"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/030/high.png"
+    },
+    {
+      "name": "Wo-Chien ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/240/high.png"
+    },
+    {
+      "name": "Barboach",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/050/high.png"
+    },
+    {
+      "name": "Dedenne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/036/high.png"
+    },
+    {
+      "name": "Mimikyu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/037/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/041/high.png"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/041/high.png"
+    },
+    {
+      "name": "Palafin",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/124/high.png"
+    },
+    {
+      "name": "Exeggutor",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/024/high.png"
+    },
+    {
+      "name": "Barboach",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/050/high.png"
+    },
+    {
+      "name": "Phanpy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/048/high.png"
+    },
+    {
+      "name": "Mime Jr.",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/031/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png"
+    },
+    {
+      "name": "Scraggy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/060/high.png"
+    },
+    {
+      "name": "Chinchou",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/020/high.png"
+    },
+    {
+      "name": "Ralts",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/027/high.png"
+    },
+    {
+      "name": "Tinkatuff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/166/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Armarouge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/015/high.png"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/040/high.png"
+    },
+    {
+      "name": "Phanpy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/048/high.png"
+    },
+    {
+      "name": "Annihilape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/047/high.png"
+    },
+    {
+      "name": "Scraggy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/060/high.png"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/033/high.png"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/033/high.png"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/164/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Clobbopus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/051/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Fidough",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/038/high.png"
+    },
+    {
+      "name": "Ralts",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/027/high.png"
+    },
+    {
+      "name": "Camerupt",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/012/high.png"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/010/high.png"
+    },
+    {
+      "name": "Phanpy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/048/high.png"
+    },
+    {
+      "name": "Cottonee",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/034/high.png"
+    },
+    {
+      "name": "Ditto",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/201/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Raichu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/019/high.png"
+    },
+    {
+      "name": "Pawmi",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/226/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/033/high.png"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/010/high.png"
+    },
+    {
+      "name": "Annihilape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/047/high.png"
+    },
+    {
+      "name": "Woobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/032/high.png"
+    },
+    {
+      "name": "Barboach",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/050/high.png"
+    },
+    {
+      "name": "Glimmora ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/218/high.png"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.png"
+    },
+    {
+      "name": "Kirlia",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/028/high.png"
+    },
+    {
+      "name": "Numel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/011/high.png"
+    },
+    {
+      "name": "Dachsbun",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/039/high.png"
+    },
+    {
+      "name": "Kirlia",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/028/high.png"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/008/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Maushold",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/074/high.png"
+    },
+    {
+      "name": "Forretress ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/212/high.png"
+    },
+    {
+      "name": "Phanpy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/048/high.png"
+    },
+    {
+      "name": "Kirlia",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/028/high.png"
+    },
+    {
+      "name": "Cottonee",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/034/high.png"
+    },
+    {
+      "name": "Numel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/011/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Greavard",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/042/high.png"
+    },
+    {
+      "name": "Gastly",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/055/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png"
+    },
+    {
+      "name": "Maushold",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/074/high.png"
+    },
+    {
+      "name": "Drifloon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/155/high.png"
+    },
+    {
+      "name": "Clobbopus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/051/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png"
+    },
+    {
+      "name": "Whimsicott",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/035/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Kirlia",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/028/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Maushold",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/074/high.png"
+    },
+    {
+      "name": "Cottonee",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/034/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png"
+    },
+    {
+      "name": "Pidgey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/196/high.png"
+    },
+    {
+      "name": "Cyclizar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/070/high.png"
+    },
+    {
+      "name": "Noibat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/068/high.png"
+    },
+    {
+      "name": "Lanturn",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/021/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png"
+    },
+    {
+      "name": "Pineco",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/001/high.png"
+    },
+    {
+      "name": "Maractus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/003/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/151/high.png"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/040/high.png"
+    },
+    {
+      "name": "Frigibax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/017/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.png"
+    },
+    {
+      "name": "Wugtrio",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/224/high.png"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png"
+    },
+    {
+      "name": "Clobbopus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/051/high.png"
+    },
+    {
+      "name": "Paldean Tauros",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/172/high.png"
+    },
+    {
+      "name": "Pineco",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/001/high.png"
+    },
+    {
+      "name": "Fidough",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/038/high.png"
+    },
+    {
+      "name": "Xatu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/026/high.png"
+    },
+    {
+      "name": "Woobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/032/high.png"
+    },
+    {
+      "name": "Lapras",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/016/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png"
+    },
+    {
+      "name": "Armarouge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/015/high.png"
+    },
+    {
+      "name": "Scrafty",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/061/high.png"
+    },
+    {
+      "name": "Pidgeot ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/221/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/041/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Woobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/032/high.png"
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/high.png"
+    },
+    {
+      "name": "Paldean Wooper",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/058/high.png"
+    },
+    {
+      "name": "Whimsicott",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/035/high.png"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png"
+    },
+    {
+      "name": "Greavard",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/042/high.png"
+    },
+    {
+      "name": "Spiritomb",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/158/high.png"
+    },
+    {
+      "name": "Xatu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/026/high.png"
+    },
+    {
+      "name": "Chinchou",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/020/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/high.png"
+    },
+    {
+      "name": "Gastly",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/055/high.png"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/041/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png"
+    },
+    {
+      "name": "Primeape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/046/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Mr. Klins ex",
+      "image": "https://media.discordapp.net/attachments/1328202495146852406/1355223205723242556/Mr._Klins.png?ex=67e82577&is=67e6d3f7&hm=08bda823eee4b1b1b37ec31ca67aa3b63964df7b6ff0d5bf762e5ca34331fdea&=&format=webp&quality=lossless&width=858&height=1198"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png"
+    },
+    {
+      "name": "Pineco",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/001/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Greavard",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/042/high.png"
+    },
+    {
+      "name": "Exeggutor",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/024/high.png"
+    },
+    {
+      "name": "Charcadet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/014/high.png"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/033/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Varoom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/064/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/105/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Armarouge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/015/high.png"
+    },
+    {
+      "name": "Palafin",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/225/high.png"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/010/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Gimmighoul",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/044/high.png"
+    },
+    {
+      "name": "Pawmi",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/226/high.png"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/041/high.png"
+    },
+    {
+      "name": "Phanpy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/048/high.png"
+    },
+    {
+      "name": "Houndstone",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/043/high.png"
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/131/high.png"
+    },
+    {
+      "name": "Maschiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062/high.png"
+    },
+    {
+      "name": "Clobbopus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/051/high.png"
+    },
+    {
+      "name": "Clobbopus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/051/high.png"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.png"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/010/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Cottonee",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/034/high.png"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png"
+    },
+    {
+      "name": "Dondozo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/126/high.png"
+    },
+    {
+      "name": "Exeggutor",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/024/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Chinchou",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/020/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/008/high.png"
+    },
+    {
+      "name": "Maractus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/003/high.png"
+    },
+    {
+      "name": "Numel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/011/high.png"
+    },
+    {
+      "name": "Mimikyu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/037/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/162/high.png"
+    },
+    {
+      "name": "Lechonk",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/071/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Dedenne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/036/high.png"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/008/high.png"
+    },
+    {
+      "name": "Maschiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Charcadet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/014/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png"
+    },
+    {
+      "name": "Charcadet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/014/high.png"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/162/high.png"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/040/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png"
+    },
+    {
+      "name": "Frigibax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/017/high.png"
+    },
+    {
+      "name": "Primeape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/046/high.png"
+    },
+    {
+      "name": "Scrafty",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/061/high.png"
+    },
+    {
+      "name": "Paldean Wooper",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/058/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Charcadet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/014/high.png"
+    },
+    {
+      "name": "Lapras",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/016/high.png"
+    },
+    {
+      "name": "Pachirisu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/138/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/033/high.png"
+    },
+    {
+      "name": "Cyclizar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/070/high.png"
+    },
+    {
+      "name": "Pawmi",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/226/high.png"
+    },
+    {
+      "name": "Mimikyu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/037/high.png"
+    },
+    {
+      "name": "Woobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/032/high.png"
+    },
+    {
+      "name": "Armarouge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/015/high.png"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/008/high.png"
+    },
+    {
+      "name": "Maschiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062/high.png"
+    },
+    {
+      "name": "Pachirisu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/138/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Lechonk",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/071/high.png"
+    },
+    {
+      "name": "Raichu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/019/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png"
+    },
+    {
+      "name": "Gholdengo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/067/high.png"
+    },
+    {
+      "name": "Raichu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/019/high.png"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png"
+    },
+    {
+      "name": "Tinkaton",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/167/high.png"
+    },
+    {
+      "name": "Lapras",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/016/high.png"
+    },
+    {
+      "name": "Lechonk",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/071/high.png"
+    },
+    {
+      "name": "Dachsbun",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/039/high.png"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.png"
+    },
+    {
+      "name": "Numel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/011/high.png"
+    },
+    {
+      "name": "Dachsbun",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/039/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Lapras",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/016/high.png"
+    },
+    {
+      "name": "Pineco",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/099/high.png"
+    },
+    {
+      "name": "Gholdengo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/067/high.png"
+    },
+    {
+      "name": "Exeggutor",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/024/high.png"
+    },
+    {
+      "name": "Camerupt",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/012/high.png"
+    },
+    {
+      "name": "Palafin",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/225/high.png"
+    },
+    {
+      "name": "Palafin",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/225/high.png"
+    },
+    {
+      "name": "Paldean Wooper",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/058/high.png"
+    },
+    {
+      "name": "Maschiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062/high.png"
+    },
+    {
+      "name": "Annihilape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/047/high.png"
+    },
+    {
+      "name": "Gastly",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/055/high.png"
+    },
+    {
+      "name": "Squawkabilly ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/223/high.png"
+    },
+    {
+      "name": "Phanpy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/048/high.png"
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/041/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Gimmighoul",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/044/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Maushold",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/074/high.png"
+    },
+    {
+      "name": "Charcadet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/014/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Fidough",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/038/high.png"
+    },
+    {
+      "name": "Armarouge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/115/high.png"
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/high.png"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/040/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/010/high.png"
+    },
+    {
+      "name": "Arboliva",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/104/high.png"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png"
+    },
+    {
+      "name": "Gimmighoul",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/044/high.png"
+    },
+    {
+      "name": "Gholdengo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/067/high.png"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/040/high.png"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/041/high.png"
+    },
+    {
+      "name": "Barboach",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/050/high.png"
+    },
+    {
+      "name": "Frigibax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/017/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Weavile",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/183/high.png"
+    },
+    {
+      "name": "Ralts",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/027/high.png"
+    },
+    {
+      "name": "Houndstone",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/043/high.png"
+    },
+    {
+      "name": "Paldean Wooper",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/058/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Noibat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/068/high.png"
+    },
+    {
+      "name": "Maschiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062/high.png"
+    },
+    {
+      "name": "Frigibax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/017/high.png"
+    },
+    {
+      "name": "Annihilape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/047/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png"
+    },
+    {
+      "name": "Jumpluff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/098/high.png"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/010/high.png"
+    },
+    {
+      "name": "Dachsbun",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/039/high.png"
+    },
+    {
+      "name": "Numel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/011/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Chinchou",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/020/high.png"
+    },
+    {
+      "name": "Frigibax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/017/high.png"
+    },
+    {
+      "name": "Cyclizar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/070/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Electrode",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/134/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Gastly",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/055/high.png"
+    },
+    {
+      "name": "Numel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/011/high.png"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Scraggy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/060/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png"
+    },
+    {
+      "name": "Xatu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/026/high.png"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png"
+    },
+    {
+      "name": "Noibat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/068/high.png"
+    },
+    {
+      "name": "Annihilape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/047/high.png"
+    },
+    {
+      "name": "Whimsicott",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/035/high.png"
+    },
+    {
+      "name": "Wattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/145/high.png"
+    },
+    {
+      "name": "Paldean Wooper",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/058/high.png"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/022/high.png"
+    },
+    {
+      "name": "Greavard",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/042/high.png"
+    },
+    {
+      "name": "Raichu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/019/high.png"
+    },
+    {
+      "name": "Maschiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062/high.png"
+    },
+    {
+      "name": "Grafaiai",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/190/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/022/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Clobbopus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/051/high.png"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Woobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/032/high.png"
+    },
+    {
+      "name": "Armarouge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/015/high.png"
+    },
+    {
+      "name": "Maushold",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/074/high.png"
+    },
+    {
+      "name": "Gimmighoul",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/044/high.png"
+    },
+    {
+      "name": "Alakazam ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/215/high.png"
+    },
+    {
+      "name": "Dedenne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/036/high.png"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/030/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png"
+    },
+    {
+      "name": "Lanturn",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/021/high.png"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.png"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png"
+    },
+    {
+      "name": "Chien-Pao ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/242/high.png"
+    },
+    {
+      "name": "Gimmighoul",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/044/high.png"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.png"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/030/high.png"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/010/high.png"
+    },
+    {
+      "name": "Raichu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/019/high.png"
+    },
+    {
+      "name": "Varoom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/064/high.png"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/008/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Chinchou",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/020/high.png"
+    },
+    {
+      "name": "Toxtricity",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/141/high.png"
+    },
+    {
+      "name": "Annihilape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/047/high.png"
+    },
+    {
+      "name": "Cottonee",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/034/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Armarouge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/015/high.png"
+    },
+    {
+      "name": "Pawmi",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/226/high.png"
+    },
+    {
+      "name": "Houndstone",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/043/high.png"
+    },
+    {
+      "name": "Gimmighoul",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/044/high.png"
+    },
+    {
+      "name": "Camerupt",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/012/high.png"
+    },
+    {
+      "name": "Phanpy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/048/high.png"
+    },
+    {
+      "name": "Chien-Pao ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/242/high.png"
+    },
+    {
+      "name": "Noibat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/068/high.png"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png"
+    },
+    {
+      "name": "Wugtrio",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/224/high.png"
+    },
+    {
+      "name": "Pawmi",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/226/high.png"
+    },
+    {
+      "name": "Charcadet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/014/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Lechonk",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/071/high.png"
+    },
+    {
+      "name": "Greavard",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/042/high.png"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/033/high.png"
+    },
+    {
+      "name": "Paldean Tauros",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/120/high.png"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/041/high.png"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/030/high.png"
+    },
+    {
+      "name": "Pineco",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/001/high.png"
+    },
+    {
+      "name": "Pineco",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/001/high.png"
+    },
+    {
+      "name": "Exeggutor",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/024/high.png"
+    },
+    {
+      "name": "Magmar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/009/high.png"
+    },
+    {
+      "name": "Maractus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/003/high.png"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png"
+    },
+    {
+      "name": "Skiploom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/097/high.png"
+    },
+    {
+      "name": "Noibat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/068/high.png"
+    },
+    {
+      "name": "Greavard",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/042/high.png"
+    },
+    {
+      "name": "Lanturn",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/021/high.png"
+    },
+    {
+      "name": "Cottonee",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/034/high.png"
+    },
+    {
+      "name": "Noibat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/068/high.png"
+    },
+    {
+      "name": "Noibat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/068/high.png"
+    },
+    {
+      "name": "Charcadet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/014/high.png"
+    },
+    {
+      "name": "Gastly",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/055/high.png"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png"
+    },
+    {
+      "name": "Scrafty",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/061/high.png"
+    },
+    {
+      "name": "Chinchou",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/020/high.png"
+    },
+    {
+      "name": "Ralts",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/153/high.png"
+    },
+    {
+      "name": "Gholdengo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/067/high.png"
+    },
+    {
+      "name": "Wugtrio",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/224/high.png"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/033/high.png"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/022/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png"
+    },
+    {
+      "name": "Clobbopus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/051/high.png"
+    },
+    {
+      "name": "Glimmet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/179/high.png"
+    },
+    {
+      "name": "Lechonk",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/071/high.png"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/008/high.png"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png"
+    },
+    {
+      "name": "Cyclizar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/070/high.png"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png"
+    },
+    {
+      "name": "Varoom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/064/high.png"
+    },
+    {
+      "name": "Noibat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/068/high.png"
+    },
+    {
+      "name": "Rellor",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/108/high.png"
+    },
+    {
+      "name": "Varoom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/064/high.png"
+    },
+    {
+      "name": "Mimikyu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/037/high.png"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/022/high.png"
+    },
+    {
+      "name": "Maschiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062/high.png"
+    },
+    {
+      "name": "Lanturn",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/021/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.png"
+    },
+    {
+      "name": "Magmar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/009/high.png"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png"
+    },
+    {
+      "name": "Grafaiai",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/190/high.png"
+    },
+    {
+      "name": "Annihilape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/047/high.png"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/030/high.png"
+    },
+    {
+      "name": "Lanturn",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/021/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Mimikyu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/037/high.png"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png"
+    },
+    {
+      "name": "Pineco",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/001/high.png"
+    },
+    {
+      "name": "Xatu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/026/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png"
+    },
+    {
+      "name": "Mime Jr.",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/157/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Magmar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/009/high.png"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png"
+    },
+    {
+      "name": "Gholdengo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/067/high.png"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png"
+    },
+    {
+      "name": "Scrafty",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/061/high.png"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png"
+    },
+    {
+      "name": "Woobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/032/high.png"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/010/high.png"
+    },
+    {
+      "name": "Ditto",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/201/high.png"
+    },
+    {
+      "name": "Cyclizar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/070/high.png"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png"
+    },
+    {
+      "name": "Pawmi",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/226/high.png"
+    },
+    {
+      "name": "Primeape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/046/high.png"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/040/high.png"
+    },
+    {
+      "name": "Scraggy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/060/high.png"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.png"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png"
+    }
+  ]
+}

@@ -1,0 +1,3472 @@
+{
+  "pokemon": [
+    {
+      "name": "Pineco",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/001/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass"],
+          "name": "Rollout",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Forretress ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/002/high.png",
+      "health": 270,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass"],
+          "name": "Guard Press",
+          "effect": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "damage": 120
+        }
+      ],
+      "rarity": "Double rare"
+    },
+    {
+      "name": "Maractus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/003/high.png",
+      "health": 110,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Double Draw",
+          "effect": "Draw 2 cards."
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Pin Missile",
+          "effect": "Flip 4 coins. This attack does 30 damage for each heads.",
+          "damage": "30×"
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/004/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Grass"],
+          "name": "Furious Kicks",
+          "effect": "Flip 3 coins. This attack does 10 damage for each heads.",
+          "damage": "10×"
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Toedscruel ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/005/high.png",
+      "health": 270,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass"],
+          "name": "Colony Rush",
+          "effect": "This attack does 40 more damage for each of your Benched Pokémon that has any Grass Energy attached.",
+          "damage": "80+"
+        }
+      ],
+      "rarity": "Double rare"
+    },
+    {
+      "name": "Espathra ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/006/high.png",
+      "health": 260,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Psy Ball",
+          "effect": "This attack does 30 more damage for each Energy attached to both Active Pokémon.",
+          "damage": "30+"
+        }
+      ],
+      "rarity": "Double rare"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fire"],
+          "name": "Blazing Destruction",
+          "effect": "Discard a Stadium in play."
+        },
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Steady Firebreathing",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/008/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Combustion",
+          "damage": 50
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Magmar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/009/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Fire"],
+          "name": "Collect",
+          "effect": "Draw a card."
+        },
+        {
+          "cost": ["Fire", "Colorless"],
+          "name": "Steady Firebreathing",
+          "damage": 40
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Magmortar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/010/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Fire"],
+          "name": "Flare",
+          "damage": 40
+        },
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Volcanic Heat",
+          "effect": "During your next turn, this Pokémon can't attack.",
+          "damage": 170
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Numel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/011/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Fire"],
+          "name": "Singe",
+          "effect": "Your opponent's Active Pokémon is now Burned."
+        },
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Heat Blast",
+          "damage": 60
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Camerupt",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/012/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Fire"],
+          "name": "Super Singe",
+          "effect": "Your opponent's Active Pokémon is now Burned."
+        },
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Cinder Cannon",
+          "effect": "You may discard a Fighting Energy from this Pokémon. If you do, this attack does 120 more damage.",
+          "damage": "120+"
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Heat Rotom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Heat Tackle",
+          "effect": "This Pokémon also does 40 damage to itself.",
+          "damage": 100
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Charcadet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/014/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Heat Blast",
+          "damage": 60
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Armarouge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/015/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Flame Cannon",
+          "effect": "Your opponent's Active Pokémon is now Burned.",
+          "damage": 90
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Lapras",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/016/high.png",
+      "health": 110,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Into the Deep",
+          "effect": "Put up to 3 Basic Energy cards from your discard pile into your hand."
+        },
+        {
+          "cost": ["Water", "Colorless"],
+          "name": "Freeze-Dry",
+          "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 50
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Frigibax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/017/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Collect",
+          "effect": "Draw a card."
+        },
+        {
+          "cost": ["Water", "Colorless"],
+          "name": "Beat",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Growl",
+          "effect": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
+        },
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Pika Bolt",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Raichu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/019/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "name": "Thunder",
+          "effect": "This Pokémon also does 50 damage to itself.",
+          "damage": 180
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Chinchou",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/020/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Shine On",
+          "effect": "Look at the top card of your deck. You may put that card on the bottom of your deck."
+        },
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Tiny Charge",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Lanturn",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/021/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Lightning Ball",
+          "damage": 50
+        },
+        {
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "name": "Aqua Spark",
+          "effect": "If this Pokémon has any Water Energy attached, this attack does 120 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/022/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "United Thunder",
+          "effect": "This attack does 10 damage for each Pokémon in your discard pile that has the United Wings attack to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": ["Lightning", "Colorless", "Colorless"],
+          "name": "Speed Wing",
+          "damage": 90
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Exeggcute",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/023/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Hypnosis",
+          "effect": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Rolling Tackle",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Exeggutor",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/024/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Hypnoblast",
+          "effect": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": 30
+        },
+        {
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "name": "Psychic Loop",
+          "effect": "Put 2 Energy attached to this Pokémon into your hand.",
+          "damage": 160
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/025/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Triple Strike",
+          "effect": "Flip 3 coins. This attack does 10 damage for each heads.",
+          "damage": "10×"
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Xatu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/026/high.png",
+      "health": 100,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "name": "Super Psy Bolt",
+          "damage": 80
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Ralts",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/027/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Psyshot",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Kirlia",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/028/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Magical Shot",
+          "damage": 30
+        },
+        {
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "name": "Psychic",
+          "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "damage": "60+"
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Gardevoir ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/029/high.png",
+      "health": 310,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "name": "Miracle Force",
+          "effect": "This Pokémon recovers from all Special Conditions.",
+          "damage": 190
+        }
+      ],
+      "rarity": "Double rare"
+    },
+    {
+      "name": "Chimecho",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/030/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Sleep Inducer",
+          "effect": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. The new Active Pokémon is now Asleep."
+        },
+        {
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "name": "Psyshot",
+          "damage": 70
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Mime Jr.",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/031/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "name": "Mimed Games",
+          "effect": "Your opponent chooses an attack from 1 of their Pokémon in play. Use the chosen attack as this attack."
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Woobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/032/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Reckless Charge",
+          "effect": "This Pokémon also does 10 damage to itself.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Swoobat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/033/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Attraction Wave",
+          "effect": "Your opponent's Active Pokémon is now Confused. Put 6 damage counters instead of 3 on that Pokémon for this Special Condition.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Cottonee",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/034/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Fickle Attack",
+          "effect": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Whimsicott",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/035/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Fairy Wind",
+          "damage": 50
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Dedenne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/036/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Minor Errand-Running",
+          "effect": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Spin Turn",
+          "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": 50
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Mimikyu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/037/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Ghost Eye",
+          "effect": "Put 7 damage counters on your opponent's Active Pokémon."
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Fidough",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/038/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Rear Kick",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Dachsbun",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/039/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "name": "Headbutt Bounce",
+          "damage": 100
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/040/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Life Sucker",
+          "effect": "Heal 30 damage from this Pokémon.",
+          "damage": 50
+        },
+        {
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "name": "Fighting Sword",
+          "effect": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 100 more damage.",
+          "damage": "100+"
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/041/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Psy Bolt",
+          "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Greavard",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/042/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Graveyard Gamboling",
+          "effect": "This attack does 10 damage for each Psychic Pokémon in your discard pile.",
+          "damage": "10×"
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Houndstone",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/043/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Psychic"],
+          "name": "Last Respects",
+          "effect": "This attack does 10 more damage for each Psychic Pokémon in your discard pile.",
+          "damage": "80+"
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Gimmighoul",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/044/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Chest-ouflage",
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+        },
+        {
+          "cost": ["Colorless"],
+          "name": "Ram",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/045/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Monkey Beatdown",
+          "effect": "This Pokémon also does 10 damage to itself.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Primeape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/046/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Raging Punch",
+          "effect": "This Pokémon also does 20 damage to itself.",
+          "damage": 70
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Annihilape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/047/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Rage Fist",
+          "effect": "This attack does 70 damage for each Prize card your opponent has taken.",
+          "damage": "70×"
+        },
+        {
+          "cost": ["Fighting", "Fighting"],
+          "name": "Dynamite Punch",
+          "effect": "This Pokémon also does 50 damage to itself.",
+          "damage": 170
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Phanpy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/048/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Strength",
+          "damage": 30
+        },
+        {
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "name": "Rolling Tackle",
+          "damage": 60
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Donphan",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/049/high.png",
+      "health": 150,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Cragalanche",
+          "effect": "Discard the top 2 cards of your opponent's deck.",
+          "damage": 30
+        },
+        {
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "name": "Powerful Spin",
+          "effect": "During your next turn, this Pokémon can't attack.",
+          "damage": 160
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Barboach",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/050/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Hide",
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+        },
+        {
+          "cost": ["Fighting", "Colorless"],
+          "name": "Mud-Slap",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Clobbopus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/051/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Feint",
+          "effect": "This attack's damage isn't affected by Resistance.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Grapploct",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/052/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Slow-Acting Syncope",
+          "effect": "At the end of your opponent's next turn, the Defending Pokémon will be Knocked Out.",
+          "damage": 30
+        },
+        {
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "name": "Mach Cross",
+          "damage": 120
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Great Tusk ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/053/high.png",
+      "health": 250,
+      "attacks": [
+        {
+          "cost": ["Fighting", "Colorless", "Colorless", "Colorless"],
+          "name": "Great Bash",
+          "effect": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "damage": 260
+        }
+      ],
+      "rarity": "Double rare"
+    },
+    {
+      "name": "Charizard ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/054/high.png",
+      "health": 330,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Burning Darkness",
+          "effect": "This attack does 30 more damage for each Prize card your opponent has taken.",
+          "damage": "180+"
+        }
+      ],
+      "rarity": "Double rare"
+    },
+    {
+      "name": "Gastly",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/055/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Allure",
+          "effect": "Draw a card."
+        },
+        {
+          "cost": ["Darkness", "Colorless"],
+          "name": "Will-O-Wisp",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Darkness", "Colorless"],
+          "name": "Dark Slumber",
+          "effect": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": 40
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Gengar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/057/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Darkness", "Colorless"],
+          "name": "Nightmare",
+          "effect": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": 100
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Paldean Wooper",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/058/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Find a Home",
+          "effect": "Search your deck for a Stadium card, reveal it, and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": ["Darkness"],
+          "name": "Ram",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Paldean Clodsire ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/059/high.png",
+      "health": 280,
+      "attacks": [
+        {
+          "cost": ["Darkness", "Colorless", "Colorless"],
+          "name": "Needle Bone",
+          "effect": "Flip a coin. If tails, during your next turn, this Pokémon can't attack.",
+          "damage": 200
+        }
+      ],
+      "rarity": "Double rare"
+    },
+    {
+      "name": "Scraggy",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/060/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Low Kick",
+          "damage": 10
+        },
+        {
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "name": "Headstrike",
+          "damage": 50
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Scrafty",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/061/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Lambaste",
+          "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+          "damage": 30
+        },
+        {
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "name": "Headbang",
+          "damage": 130
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Maschiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Darkness"],
+          "name": "Ambush",
+          "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/063/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "name": "Wild Tackle",
+          "effect": "This Pokémon also does 30 damage to itself.",
+          "damage": 160
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Varoom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/064/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Rev",
+          "effect": "Put up to 2 Basic Energy cards from your discard pile into your hand."
+        },
+        {
+          "cost": ["Metal", "Colorless"],
+          "name": "Headbutt",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Metal", "Colorless", "Colorless", "Colorless"],
+          "name": "Knock Away",
+          "effect": "Flip a coin. If heads, this attack does 90 more damage.",
+          "damage": "90+"
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Iron Treads ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/066/high.png",
+      "health": 220,
+      "attacks": [
+        {
+          "cost": ["Metal", "Metal", "Colorless"],
+          "name": "Iron-Clad Roll",
+          "effect": "After doing damage, you may discard all Future Booster Energy Capsules from this Pokémon. If you do, during your opponent's next turn, this Pokémon takes 150 less damage from attacks (after applying Weakness and Resistance).",
+          "damage": 150
+        }
+      ],
+      "rarity": "Double rare"
+    },
+    {
+      "name": "Gholdengo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/067/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Lavish Hospitality",
+          "effect": "You may attach any number of Basic Metal Energy cards from your hand to your Pokémon in any way you like."
+        },
+        {
+          "cost": ["Metal", "Colorless", "Colorless"],
+          "name": "Scintillating Surfing",
+          "effect": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 80 damage for each heads.",
+          "damage": "80×"
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Noibat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/068/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Darkness"],
+          "name": "Gust",
+          "damage": 40
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Noivern ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/069/high.png",
+      "health": 260,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Covert Flight",
+          "effect": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+          "damage": 70
+        },
+        {
+          "cost": ["Psychic", "Darkness"],
+          "name": "Dominating Echo",
+          "effect": "During your opponent's next turn, they can't play any Special Energy or Stadium cards from their hand.",
+          "damage": 140
+        }
+      ],
+      "rarity": "Double rare"
+    },
+    {
+      "name": "Cyclizar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/070/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Grass", "Darkness", "Colorless"],
+          "name": "Acceleration Drive",
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+          "damage": 100
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Lechonk",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/071/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Whimsy Tackle",
+          "effect": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 70
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/072/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Finest Selection",
+          "effect": "Flip 3 coins. Put a number of cards up to the number of heads from your discard pile into your hand."
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Perfume Press",
+          "effect": "Your opponent's Active Pokémon is now Confused.",
+          "damage": 70
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/073/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Collect",
+          "effect": "Draw 2 cards."
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Gentle Slap",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Maushold",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/074/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Slap",
+          "damage": 40
+        },
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Family Attack",
+          "effect": "This attack does 70 damage for each of your Maushold in play.",
+          "damage": "70×"
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Squawkabilly ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/075/high.png",
+      "health": 160,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Motivate",
+          "effect": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Double rare"
+    },
+    {
+      "name": "Oddish",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/092/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Razor Leaf",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Gloom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/093/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Drool",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Vileplume",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/094/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "name": "Solar Beam",
+          "damage": 90
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Scyther",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/095/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Agility",
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+          "damage": 10
+        },
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Cut",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Hoppip",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/096/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Grass"],
+          "name": "Splashing Dodge",
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Skiploom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/097/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Grass"],
+          "name": "Flowery Zephyr",
+          "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Jumpluff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/098/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Grass"],
+          "name": "Fluffy Breeze",
+          "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 60
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Pineco",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/099/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass"],
+          "name": "Rollout",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Snover",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/100/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Grass", "Colorless"],
+          "name": "Corkscrew Punch",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Abomasnow",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/101/high.png",
+      "health": 150,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass", "Colorless"],
+          "name": "Magnum Punch",
+          "damage": 110
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Smoliv",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/102/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Grass"],
+          "name": "Nutrients",
+          "effect": "Heal 30 damage from 1 of your Pokémon."
+        },
+        {
+          "cost": ["Grass", "Colorless"],
+          "name": "Spray Fluid",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Dolliv",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/103/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Slap",
+          "damage": 20
+        },
+        {
+          "cost": ["Grass", "Colorless"],
+          "name": "Apply Oil",
+          "effect": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+          "damage": 40
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Arboliva",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/104/high.png",
+      "health": 150,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass", "Colorless"],
+          "name": "Solar Beam",
+          "damage": 150
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Toedscool",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/105/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Grass"],
+          "name": "Furious Kicks",
+          "effect": "Flip 3 coins. This attack does 10 damage for each heads.",
+          "damage": "10×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Capsakid",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/106/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Increasing Spice",
+          "effect": "Search your deck for a Basic Fire Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        },
+        {
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "name": "Playful Kick",
+          "damage": 50
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Scovillain",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/107/high.png",
+      "health": 110,
+      "attacks": [
+        {
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "name": "Spicy Headbutt",
+          "effect": "This attack's damage isn't affected by Resistance.",
+          "damage": 110
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Rellor",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/108/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Ball Roll",
+          "effect": "Flip a coin until you get tails. This attack does 30 damage for each heads.",
+          "damage": "30×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/109/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fire"],
+          "name": "Blazing Destruction",
+          "effect": "Discard a Stadium in play."
+        },
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Steady Firebreathing",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/110/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Combustion",
+          "damage": 50
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Paldean Tauros",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/111/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Raging Horns",
+          "effect": "This attack does 10 more damage for each damage counter on this Pokémon.",
+          "damage": "20+"
+        },
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Blaze Dash",
+          "effect": "Discard an Energy from this Pokémon.",
+          "damage": 120
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Entei",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/112/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Blaze Ball",
+          "effect": "This attack does 20 more damage for each Fire Energy attached to this Pokémon.",
+          "damage": "60+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Oricorio",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/113/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Fire", "Colorless"],
+          "name": "Flap",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Charcadet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/114/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Heat Blast",
+          "damage": 60
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Armarouge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/115/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Flame Cannon",
+          "effect": "Your opponent's Active Pokémon is now Burned.",
+          "damage": 90
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Slowpoke",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/116/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Rest",
+          "effect": "This Pokémon is now Asleep. Heal 30 damage from it."
+        },
+        {
+          "cost": ["Water", "Colorless"],
+          "name": "Headbutt",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Slowbro",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/117/high.png",
+      "health": 100,
+      "attacks": [
+        {
+          "cost": ["Water", "Colorless"],
+          "name": "Bubble Drain",
+          "effect": "Heal 30 damage from this Pokémon.",
+          "damage": 60
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Staryu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/118/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Water", "Colorless"],
+          "name": "Swift",
+          "effect": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Starmie",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/119/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Water", "Colorless"],
+          "name": "Speed Attack",
+          "damage": 50
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Paldean Tauros",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/120/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Raging Horns",
+          "effect": "This attack does 10 more damage for each damage counter on this Pokémon.",
+          "damage": "20+"
+        },
+        {
+          "cost": ["Water", "Colorless", "Colorless"],
+          "name": "Aqua Dive",
+          "effect": "This attack does 60 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Wiglett",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/121/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Twisting Strike",
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Wugtrio",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/122/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Headbutt",
+          "damage": 30
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Undersea Tunnel",
+          "effect": "Flip 3 coins. For each heads, discard the top 3 cards of your opponent's deck."
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Finizen",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/123/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Valiant Evolution",
+          "effect": "Switch this Pokémon with 1 of your Benched Pokémon. If you do, search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+        },
+        {
+          "cost": ["Water"],
+          "name": "Razor Fin",
+          "damage": 10
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Palafin",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/124/high.png",
+      "health": 150,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Jet Punch",
+          "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 30
+        },
+        {
+          "cost": ["Water", "Water"],
+          "name": "Justice Kick",
+          "effect": "If this Pokémon didn't move from the Bench to the Active Spot this turn, this attack does nothing.",
+          "damage": 210
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Veluza",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/125/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Ram",
+          "damage": 20
+        },
+        {
+          "cost": ["Water", "Colorless", "Colorless", "Colorless"],
+          "name": "Slim Screw",
+          "effect": "If you have no cards in your hand, this attack can be used for Water.",
+          "damage": 120
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Dondozo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/126/high.png",
+      "health": 160,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Release Rage",
+          "effect": "This attack does 50 damage for each Tatsugiri in your discard pile.",
+          "damage": "50×"
+        },
+        {
+          "cost": ["Water", "Water", "Colorless", "Colorless"],
+          "name": "Heavy Splash",
+          "damage": 120
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Tatsugiri",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/127/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Mise en Place",
+          "effect": "Search your deck for up to 2 Basic Water Energy cards and attach them to 1 of your Basic Pokémon. Then, shuffle your deck."
+        },
+        {
+          "cost": ["Water"],
+          "name": "Curl Up",
+          "effect": "Put this Pokémon and all attached cards into your hand.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Frigibax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/128/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Collect",
+          "effect": "Draw a card."
+        },
+        {
+          "cost": ["Water", "Colorless"],
+          "name": "Beat",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Arctibax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/129/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Water", "Colorless"],
+          "name": "Sharp Fin",
+          "damage": 40
+        },
+        {
+          "cost": ["Water", "Water", "Colorless"],
+          "name": "Frost Smash",
+          "damage": 80
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Baxcalibur",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/130/high.png",
+      "health": 160,
+      "attacks": [
+        {
+          "cost": ["Water", "Water", "Colorless"],
+          "name": "Buster Tail",
+          "damage": 130
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/131/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Growl",
+          "effect": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
+        },
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Pika Bolt",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Raichu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/132/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "name": "Thunder",
+          "effect": "This Pokémon also does 50 damage to itself.",
+          "damage": 180
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Voltorb",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/133/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Lightning"],
+          "name": "Tumbling Attack",
+          "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Electrode",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/134/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Lightning"],
+          "name": "Bang Boom Chain",
+          "effect": "Before doing damage, you may discard any number of Pokémon Tools from your Pokémon. This attack does 40 more damage for each card you discarded in this way.",
+          "damage": "20+"
+        },
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Electro Ball",
+          "damage": 70
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Shinx",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/135/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Lightning"],
+          "name": "Wild Kick",
+          "effect": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Luxio",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/136/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Lightning"],
+          "name": "Zap Kick",
+          "damage": 30
+        },
+        {
+          "cost": ["Lightning", "Colorless", "Colorless"],
+          "name": "Head Bolt",
+          "damage": 60
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Luxray",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/137/high.png",
+      "health": 150,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Colorless", "Colorless"],
+          "name": "Wild Charge",
+          "effect": "This Pokémon also does 20 damage to itself.",
+          "damage": 180
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Pachirisu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/138/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Everyone Discharge",
+          "effect": "This attack does 20 more damage for each of your Benched Lightning Pokémon. This attack's damage isn't affected by Weakness.",
+          "damage": "10+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Thundurus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/139/high.png",
+      "health": 110,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Lightning"],
+          "name": "Gigantic Bolt",
+          "effect": "This Pokémon also does 90 damage to itself.",
+          "damage": 140
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Toxel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/140/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Lightning"],
+          "name": "Slight Intrusion",
+          "effect": "This Pokémon also does 10 damage to itself.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Toxtricity",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/141/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Lightning"],
+          "name": "Leer",
+          "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Loud Mix",
+          "effect": "This attack does 30 more damage for each different type of Pokémon on your Bench.",
+          "damage": "50+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Pawmi",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/142/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Light Punch",
+          "damage": 10
+        },
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Zap Kick",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Pawmo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/143/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Lightning"],
+          "name": "Thunder Shock",
+          "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 30
+        },
+        {
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "name": "Head Bolt",
+          "damage": 70
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Pawmot",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/144/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "name": "Electro Paws",
+          "effect": "Discard all Energy from this Pokémon.",
+          "damage": 230
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Wattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/145/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Peck",
+          "damage": 10
+        },
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "United Wings",
+          "effect": "This attack does 20 damage for each Pokémon in your discard pile that has the United Wings attack.",
+          "damage": "20×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Kilowattrel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/146/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "United Thunder",
+          "effect": "This attack does 10 damage for each Pokémon in your discard pile that has the United Wings attack to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": ["Lightning", "Colorless", "Colorless"],
+          "name": "Speed Wing",
+          "damage": 90
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Wigglytuff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/147/high.png",
+      "health": 110,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "name": "Magical Shot",
+          "damage": 100
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Abra",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/148/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Psyshot",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Kadabra",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/149/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Teleportation Attack",
+          "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Cleffa",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/150/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "name": "Grasping Draw",
+          "effect": "Draw cards until you have 7 cards in your hand."
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Natu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/151/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Triple Strike",
+          "effect": "Flip 3 coins. This attack does 10 damage for each heads.",
+          "damage": "10×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Xatu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/152/high.png",
+      "health": 100,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "name": "Super Psy Bolt",
+          "damage": 80
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Ralts",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/153/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Psyshot",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Kirlia",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/154/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Magical Shot",
+          "damage": 30
+        },
+        {
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "name": "Psychic",
+          "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "damage": "60+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Drifloon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/155/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Gust",
+          "damage": 10
+        },
+        {
+          "cost": ["Psychic", "Psychic"],
+          "name": "Balloon Blast",
+          "effect": "This attack does 30 damage for each damage counter on this Pokémon.",
+          "damage": "30×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Drifblim",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/156/high.png",
+      "health": 110,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Gust",
+          "damage": 30
+        },
+        {
+          "cost": ["Psychic", "Psychic", "Psychic"],
+          "name": "Curse Spreading",
+          "effect": "Put 8 damage counters on your opponent's Pokémon in any way you like."
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Mime Jr.",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/157/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "name": "Mimed Games",
+          "effect": "Your opponent chooses an attack from 1 of their Pokémon in play. Use the chosen attack as this attack."
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Spiritomb",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/158/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Fade Out",
+          "effect": "Put this Pokémon and all attached cards into your hand.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Klefki",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/159/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Joust",
+          "effect": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Mimikyu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/160/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Ghost Eye",
+          "effect": "Put 7 damage counters on your opponent's Active Pokémon."
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Dachsbun",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/161/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "name": "Headbutt Bounce",
+          "damage": 100
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Ceruledge",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/162/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Life Sucker",
+          "effect": "Heal 30 damage from this Pokémon.",
+          "damage": 50
+        },
+        {
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "name": "Fighting Sword",
+          "effect": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 100 more damage.",
+          "damage": "100+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Rabsca",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/163/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Revival Blessing",
+          "effect": "Put a Pokémon from your discard pile onto your Bench."
+        },
+        {
+          "cost": ["Psychic", "Psychic"],
+          "name": "Psybeam",
+          "effect": "Your opponent's Active Pokémon is now Confused.",
+          "damage": 50
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Flittle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/164/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Psy Bolt",
+          "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Tinkatink",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/165/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Scrap Pickup",
+          "effect": "Put an Item card from your discard pile into your hand."
+        },
+        {
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "name": "Fairy Wind",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Tinkatuff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/166/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Play Rough",
+          "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": "30+"
+        },
+        {
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "name": "Pulverizing Press",
+          "effect": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "damage": 60
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Tinkaton",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/167/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Special Hammer",
+          "effect": "If this Pokémon has any Special Energy attached, this attack does 90 more damage.",
+          "damage": "90+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Houndstone",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/168/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Psychic"],
+          "name": "Last Respects",
+          "effect": "This attack does 10 more damage for each Psychic Pokémon in your discard pile.",
+          "damage": "80+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Mankey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/169/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Monkey Beatdown",
+          "effect": "This Pokémon also does 10 damage to itself.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Primeape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/170/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Raging Punch",
+          "effect": "This Pokémon also does 20 damage to itself.",
+          "damage": 70
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Annihilape",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/171/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Rage Fist",
+          "effect": "This attack does 70 damage for each Prize card your opponent has taken.",
+          "damage": "70×"
+        },
+        {
+          "cost": ["Fighting", "Fighting"],
+          "name": "Dynamite Punch",
+          "effect": "This Pokémon also does 50 damage to itself.",
+          "damage": 170
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Paldean Tauros",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/172/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Raging Horns",
+          "effect": "This attack does 10 more damage for each damage counter on this Pokémon.",
+          "damage": "20+"
+        },
+        {
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "name": "Combat Tackle",
+          "effect": "This Pokémon also does 30 damage to itself.",
+          "damage": 130
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Riolu",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/173/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Punch",
+          "damage": 10
+        },
+        {
+          "cost": ["Fighting", "Colorless"],
+          "name": "Reckless Charge",
+          "effect": "This Pokémon also does 20 damage to itself.",
+          "damage": 50
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Lucario",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/174/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Avenging Knuckle",
+          "effect": "If any of your Fighting Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 120 more damage.",
+          "damage": "30+"
+        },
+        {
+          "cost": ["Fighting", "Colorless", "Colorless"],
+          "name": "Accelerating Stab",
+          "effect": "During your next turn, this Pokémon can't use Accelerating Stab.",
+          "damage": 120
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Hawlucha",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/175/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fighting", "Colorless", "Colorless"],
+          "name": "Wing Attack",
+          "damage": 70
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Nacli",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/176/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Salt Coating",
+          "effect": "Heal 20 damage from 1 of your Pokémon."
+        },
+        {
+          "cost": ["Fighting", "Fighting"],
+          "name": "Tackle",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Naclstack",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/177/high.png",
+      "health": 100,
+      "attacks": [
+        {
+          "cost": ["Fighting", "Fighting"],
+          "name": "Salt Cannon",
+          "effect": "Flip 3 coins. This attack does 60 damage for each heads.",
+          "damage": "60×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Garganacl",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/178/high.png",
+      "health": 180,
+      "attacks": [
+        {
+          "cost": ["Fighting", "Fighting"],
+          "name": "Knocking Hammer",
+          "effect": "Discard the top card of your opponent's deck.",
+          "damage": 130
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Glimmet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/179/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Ascension",
+          "effect": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Paldean Wooper",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/180/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Find a Home",
+          "effect": "Search your deck for a Stadium card, reveal it, and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": ["Darkness"],
+          "name": "Ram",
+          "damage": 10
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Murkrow",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/181/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Spin Turn",
+          "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": 10
+        },
+        {
+          "cost": ["Darkness"],
+          "name": "United Wings",
+          "effect": "This attack does 20 damage for each Pokémon in your discard pile that has the United Wings attack.",
+          "damage": "20×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Sneasel",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/182/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Darkness"],
+          "name": "Dig Claws",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Weavile",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/183/high.png",
+      "health": 110,
+      "attacks": [
+        {
+          "cost": ["Darkness", "Colorless"],
+          "name": "Slashing Claw",
+          "damage": 70
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Sableye",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/184/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Night Eyes",
+          "effect": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "cost": ["Darkness"],
+          "name": "Unseen Claw",
+          "effect": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 70 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Pawniard",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/185/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Scratch",
+          "damage": 10
+        },
+        {
+          "cost": ["Darkness", "Colorless"],
+          "name": "Pierce",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Bisharp",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/186/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Darkness"],
+          "name": "Dark Cutter",
+          "damage": 40
+        },
+        {
+          "cost": ["Darkness", "Colorless"],
+          "name": "Double-Edged Slash",
+          "effect": "This Pokémon also does 30 damage to itself.",
+          "damage": 120
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Kingambit",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/187/high.png",
+      "health": 170,
+      "attacks": [
+        {
+          "cost": ["Darkness", "Colorless", "Colorless"],
+          "name": "Hack At",
+          "damage": 160
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Mabosstiff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/188/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "name": "Wild Tackle",
+          "effect": "This Pokémon also does 30 damage to itself.",
+          "damage": 160
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Shroodle",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/189/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Berry Search",
+          "effect": "Put a Basic Energy card from your discard pile into your hand."
+        },
+        {
+          "cost": ["Darkness"],
+          "name": "Scratch",
+          "damage": 10
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Grafaiai",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/190/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Darkness"],
+          "name": "Spit Poison",
+          "effect": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "cost": ["Darkness"],
+          "name": "Colorful Graffiti",
+          "effect": "You may discard as many Basic Energy cards as you like from your hand. This attack does 40 damage for each type of Basic Energy you discarded in this way.",
+          "damage": "40×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Scizor",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/191/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Metal"],
+          "name": "Punishing Scissors",
+          "effect": "This attack does 50 more damage for each of your opponent's Pokémon in play that has an Ability.",
+          "damage": "10+"
+        },
+        {
+          "cost": ["Metal", "Metal"],
+          "name": "Cut",
+          "damage": 70
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Varoom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/192/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Rev",
+          "effect": "Put up to 2 Basic Energy cards from your discard pile into your hand."
+        },
+        {
+          "cost": ["Metal", "Colorless"],
+          "name": "Headbutt",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Revavroom",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/193/high.png",
+      "health": 140,
+      "attacks": [
+        {
+          "cost": ["Metal", "Colorless", "Colorless", "Colorless"],
+          "name": "Knock Away",
+          "effect": "Flip a coin. If heads, this attack does 90 more damage.",
+          "damage": "90+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Noibat",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/194/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Darkness"],
+          "name": "Gust",
+          "damage": 40
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Cyclizar",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/195/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Grass", "Darkness", "Colorless"],
+          "name": "Acceleration Drive",
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+          "damage": 100
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Pidgey",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/196/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Call for Family",
+          "effect": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Tackle",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Pidgeotto",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/197/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Flap",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Jigglypuff",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/198/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Lead",
+          "effect": "Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Stompy Stomp",
+          "effect": "Flip 2 coins. This attack does 20 damage for each heads.",
+          "damage": "20×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Doduo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/199/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Reckless Charge",
+          "effect": "This Pokémon also does 10 damage to itself.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Dodrio",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/200/high.png",
+      "health": 100,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Ballistic Beak",
+          "effect": "This attack does 30 more damage for each damage counter on this Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Ditto",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/201/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Splup",
+          "damage": 10
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Snorlax",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/202/high.png",
+      "health": 150,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Thudding Press",
+          "effect": "This Pokémon also does 30 damage to itself.",
+          "damage": 130
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Wingull",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/203/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Gust",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Pelipper",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/204/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Wing Attack",
+          "damage": 90
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Skwovet",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/205/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Bite",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Greedent",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/206/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Bite",
+          "damage": 50
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Enhanced Fang",
+          "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 80 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Lechonk",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/207/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Whimsy Tackle",
+          "effect": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 70
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Oinkologne",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/208/high.png",
+      "health": 130,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Finest Selection",
+          "effect": "Flip 3 coins. Put a number of cards up to the number of heads from your discard pile into your hand."
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Perfume Press",
+          "effect": "Your opponent's Active Pokémon is now Confused.",
+          "damage": 70
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Tandemaus",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/209/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Collect",
+          "effect": "Draw 2 cards."
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Gentle Slap",
+          "damage": 30
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Maushold",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/210/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Slap",
+          "damage": 40
+        },
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Family Attack",
+          "effect": "This attack does 70 damage for each of your Maushold in play.",
+          "damage": "70×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Flamigo",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/211/high.png",
+      "health": 110,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "United Wings",
+          "effect": "This attack does 20 damage for each Pokémon in your discard pile that has the United Wings attack.",
+          "damage": "20×"
+        }
+      ],
+      "rarity": "Shiny rare"
+    },
+    {
+      "name": "Forretress ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/212/high.png",
+      "health": 270,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass"],
+          "name": "Guard Press",
+          "effect": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "damage": 120
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Toedscruel ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/213/high.png",
+      "health": 270,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass"],
+          "name": "Colony Rush",
+          "effect": "This attack does 40 more damage for each of your Benched Pokémon that has any Grass Energy attached.",
+          "damage": "80+"
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Espathra ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/214/high.png",
+      "health": 260,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Psy Ball",
+          "effect": "This attack does 30 more damage for each Energy attached to both Active Pokémon.",
+          "damage": "30+"
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Alakazam ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/215/high.png",
+      "health": 310,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Mind Jack",
+          "effect": "This attack does 30 more damage for each of your opponent's Benched Pokémon.",
+          "damage": "90+"
+        },
+        {
+          "cost": ["Psychic", "Psychic"],
+          "name": "Dimensional Hand",
+          "effect": "This attack can be used even if this Pokémon is on the Bench.",
+          "damage": 120
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Mew ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/216/high.png",
+      "health": 180,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Genome Hacking",
+          "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Gardevoir ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/217/high.png",
+      "health": 310,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "name": "Miracle Force",
+          "effect": "This Pokémon recovers from all Special Conditions.",
+          "damage": 190
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Glimmora ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/218/high.png",
+      "health": 270,
+      "attacks": [
+        {
+          "cost": ["Fighting", "Fighting"],
+          "name": "Poisonous Gem",
+          "effect": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": 140
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Paldean Clodsire ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/219/high.png",
+      "health": 280,
+      "attacks": [
+        {
+          "cost": ["Darkness", "Colorless", "Colorless"],
+          "name": "Needle Bone",
+          "effect": "Flip a coin. If tails, during your next turn, this Pokémon can't attack.",
+          "damage": 200
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Noivern ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/220/high.png",
+      "health": 260,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Covert Flight",
+          "effect": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+          "damage": 70
+        },
+        {
+          "cost": ["Psychic", "Darkness"],
+          "name": "Dominating Echo",
+          "effect": "During your opponent's next turn, they can't play any Special Energy or Stadium cards from their hand.",
+          "damage": 140
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Pidgeot ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/221/high.png",
+      "health": 280,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Blustery Wind",
+          "effect": "You may discard a Stadium in play.",
+          "damage": 120
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Wigglytuff ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/222/high.png",
+      "health": 250,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Friend Tackle",
+          "effect": "If you played a Supporter card from your hand during this turn, this attack does 90 more damage.",
+          "damage": "90+"
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Squawkabilly ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/223/high.png",
+      "health": 160,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Motivate",
+          "effect": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Shiny Ultra Rare"
+    },
+    {
+      "name": "Wugtrio",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/224/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Headbutt",
+          "damage": 30
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Undersea Tunnel",
+          "effect": "Flip 3 coins. For each heads, discard the top 3 cards of your opponent's deck."
+        }
+      ],
+      "rarity": "Illustration rare"
+    },
+    {
+      "name": "Palafin",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/225/high.png",
+      "health": 150,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Jet Punch",
+          "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 30
+        },
+        {
+          "cost": ["Water", "Water"],
+          "name": "Justice Kick",
+          "effect": "If this Pokémon didn't move from the Bench to the Active Spot this turn, this attack does nothing.",
+          "damage": 210
+        }
+      ],
+      "rarity": "Illustration rare"
+    },
+    {
+      "name": "Pawmi",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/226/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Light Punch",
+          "damage": 10
+        },
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Zap Kick",
+          "damage": 20
+        }
+      ],
+      "rarity": "Illustration rare"
+    },
+    {
+      "name": "Mew ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/232/high.png",
+      "health": 180,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Genome Hacking",
+          "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "rarity": "Special illustration rare"
+    },
+    {
+      "name": "Gardevoir ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/233/high.png",
+      "health": 310,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "name": "Miracle Force",
+          "effect": "This Pokémon recovers from all Special Conditions.",
+          "damage": 190
+        }
+      ],
+      "rarity": "Special illustration rare"
+    },
+    {
+      "name": "Charizard ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/234/high.png",
+      "health": 330,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Burning Darkness",
+          "effect": "This attack does 30 more damage for each Prize card your opponent has taken.",
+          "damage": "180+"
+        }
+      ],
+      "rarity": "Special illustration rare"
+    },
+    {
+      "name": "Wo-Chien ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/240/high.png",
+      "health": 230,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass", "Colorless"],
+          "name": "Covetous Ivy",
+          "effect": "This attack does 60 damage to 1 of your opponent's Benched Pokémon for each Prize card your opponent has taken. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": ["Grass", "Grass", "Grass", "Colorless"],
+          "name": "Forest Blast",
+          "damage": 220
+        }
+      ],
+      "rarity": "Hyper rare"
+    },
+    {
+      "name": "Chi-Yu ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/241/high.png",
+      "health": 190,
+      "attacks": [
+        {
+          "cost": ["Fire"],
+          "name": "Jealously Singe",
+          "effect": "Discard the top 2 cards of your opponent's deck."
+        },
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Flame Surge",
+          "effect": "Choose up to 3 of your Benched Pokémon. For each of those Pokémon, search your deck for a Basic Fire Energy card and attach it to that Pokémon. Then, shuffle your deck.",
+          "damage": 100
+        }
+      ],
+      "rarity": "Hyper rare"
+    },
+    {
+      "name": "Chien-Pao ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/242/high.png",
+      "health": 220,
+      "attacks": [
+        {
+          "cost": ["Water", "Water"],
+          "name": "Hail Blade",
+          "effect": "You may discard any amount of Water Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way.",
+          "damage": "60×"
+        }
+      ],
+      "rarity": "Hyper rare"
+    },
+    {
+      "name": "Miraidon ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/243/high.png",
+      "health": 220,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "name": "Photon Blaster",
+          "effect": "During your next turn, this Pokémon can't attack.",
+          "damage": 220
+        }
+      ],
+      "rarity": "Hyper rare"
+    },
+    {
+      "name": "Ting-Lu ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/244/high.png",
+      "health": 240,
+      "attacks": [
+        {
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "name": "Land Scoop",
+          "effect": "Put 2 damage counters on 1 of your opponent's Benched Pokémon.",
+          "damage": 150
+        }
+      ],
+      "rarity": "Hyper rare"
+    },
+    {
+      "name": "Koraidon ex",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/245/high.png",
+      "health": 230,
+      "attacks": [
+        {
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "name": "Wild Impact",
+          "effect": "During your next turn, this Pokémon can't attack.",
+          "damage": 220
+        }
+      ],
+      "rarity": "Hyper rare"
+    },
+    {
+      "name": "Mr. Klins ex",
+      "image": "https://media.discordapp.net/attachments/1328202495146852406/1355223205723242556/Mr._Klins.png?ex=67e82577&is=67e6d3f7&hm=08bda823eee4b1b1b37ec31ca67aa3b63964df7b6ff0d5bf762e5ca34331fdea&=&format=webp&quality=lossless&width=858&height=1198",
+      "health": 800,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Psychic", "Psychic"],
+          "name": "Absolute Power",
+          "effect": "Anything you want.",
+          "damage": 100000
+        }
+      ],
+      "rarity": "Hyper Rare"
+    }
+  ]
+}

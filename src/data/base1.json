@@ -1,0 +1,1191 @@
+{
+  "pokemon": [
+    {
+      "name": "Alakazam",
+      "image": "https://assets.tcgdex.net/en/base/base1/1/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Psychic", "Psychic"],
+          "name": "Confuse Ray",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Rare"
+    },
+
+    {
+      "name": "Blastoise",
+      "image": "https://assets.tcgdex.net/en/base/base1/2/high.png",
+      "health": 100,
+      "attacks": [
+        {
+          "cost": ["Water", "Water", "Water"],
+          "name": "Hydro Pump",
+          "effect": "Does 40 damage plus 10 more damage for each attached Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count.",
+          "damage": "40+"
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Chansey",
+      "image": "https://assets.tcgdex.net/en/base/base1/3/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Scrunch",
+          "effect": "Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "name": "Double-edge",
+          "effect": "Chansey does 80 damage to itself.",
+          "damage": 80
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Charizard",
+      "image": "https://assets.tcgdex.net/en/base/base1/4/high.png",
+      "health": 120,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire", "Fire", "Fire"],
+          "name": "Fire Spin",
+          "effect": "Discard 2 Energy cards attached to Charizard in order to use this attack.",
+          "damage": 100
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Clefairy",
+      "image": "https://assets.tcgdex.net/en/base/base1/5/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Sing",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Metronome",
+          "effect": "Choose 1 of Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding energy cards. (No matter what type the defender is, Clefairy's type is still Colorless.)"
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Gyarados",
+      "image": "https://assets.tcgdex.net/en/base/base1/6/high.png",
+      "health": 100,
+      "attacks": [
+        {
+          "cost": ["Water", "Water", "Water"],
+          "name": "Dragon Rage",
+          "damage": 50
+        },
+        {
+          "cost": ["Water", "Water", "Water", "Water"],
+          "name": "Bubblebeam",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 40
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Hitmonchan",
+      "image": "https://assets.tcgdex.net/en/base/base1/7/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Jab",
+          "damage": 20
+        },
+        {
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "name": "Special Punch",
+          "damage": 40
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Machamp",
+      "image": "https://assets.tcgdex.net/en/base/base1/8/high.png",
+      "health": 100,
+      "attacks": [
+        {
+          "cost": ["Fighting", "Fighting", "Fighting", "Colorless"],
+          "name": "Seismic Toss",
+          "damage": 60
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Magneton",
+      "image": "https://assets.tcgdex.net/en/base/base1/9/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "name": "Thunder Wave",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 30
+        },
+        {
+          "cost": ["Lightning", "Lightning", "Colorless", "Colorless"],
+          "name": "Selfdestruct",
+          "effect": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 80 damage to itself.",
+          "damage": 80
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Mewtwo",
+      "image": "https://assets.tcgdex.net/en/base/base1/10/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Psychic",
+          "effect": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.",
+          "damage": "10+"
+        },
+        {
+          "cost": ["Psychic", "Psychic"],
+          "name": "Barrier",
+          "effect": "Discard 1 Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo."
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Nidoking",
+      "image": "https://assets.tcgdex.net/en/base/base1/11/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "name": "Thrash",
+          "effect": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself.",
+          "damage": "30+"
+        },
+        {
+          "cost": ["Grass", "Grass", "Grass"],
+          "name": "Toxic",
+          "effect": "The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned).",
+          "damage": 20
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Ninetales",
+      "image": "https://assets.tcgdex.net/en/base/base1/12/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Lure",
+          "effect": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon."
+        },
+        {
+          "cost": ["Fire", "Fire", "Fire", "Fire"],
+          "name": "Fire Blast",
+          "effect": "Discard 1 Energy card attached to Ninetales in order to use this attack.",
+          "damage": 80
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Poliwrath",
+      "image": "https://assets.tcgdex.net/en/base/base1/13/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Water", "Water", "Colorless"],
+          "name": "Water Gun",
+          "effect": "Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count.",
+          "damage": "30+"
+        },
+        {
+          "cost": ["Water", "Water", "Colorless", "Colorless"],
+          "name": "Whirlpool",
+          "effect": "If the Defending Pokémon has any Energy cards attached to it, choose 1 and discard it.",
+          "damage": 40
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Raichu",
+      "image": "https://assets.tcgdex.net/en/base/base1/14/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Colorless", "Colorless"],
+          "name": "Agility",
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu.",
+          "damage": 20
+        },
+        {
+          "cost": ["Lightning", "Lightning", "Lightning", "Colorless"],
+          "name": "Thunder",
+          "effect": "Flip a coin. If tails, Raichu does 30 damage to itself.",
+          "damage": 60
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Venusaur",
+      "image": "https://assets.tcgdex.net/en/base/base1/15/high.png",
+      "health": 100,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass", "Grass", "Grass"],
+          "name": "Solarbeam",
+          "damage": 60
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Zapdos",
+      "image": "https://assets.tcgdex.net/en/base/base1/16/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Lightning", "Lightning", "Colorless"],
+          "name": "Thunder",
+          "effect": "Flip a coin. If tails, Zapdos does 30 damage to itself.",
+          "damage": 60
+        },
+        {
+          "cost": ["Lightning", "Lightning", "Lightning", "Lightning"],
+          "name": "Thunderbolt",
+          "effect": "Discard all Energy cards attached to Zapdos in order to use this attack.",
+          "damage": 100
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Beedrill",
+      "image": "https://assets.tcgdex.net/en/base/base1/17/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Twineedle",
+          "effect": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30x"
+        },
+        {
+          "cost": ["Grass", "Grass", "Grass"],
+          "name": "Poison Sting",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "damage": 40
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Dragonair",
+      "image": "https://assets.tcgdex.net/en/base/base1/18/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Slam",
+          "effect": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30x"
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "name": "Hyper Beam",
+          "effect": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Dugtrio",
+      "image": "https://assets.tcgdex.net/en/base/base1/19/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "name": "Slash",
+          "damage": 40
+        },
+        {
+          "cost": ["Fighting", "Fighting", "Fighting", "Fighting"],
+          "name": "Earthquake",
+          "effect": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 70
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Electabuzz",
+      "image": "https://assets.tcgdex.net/en/base/base1/20/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Lightning"],
+          "name": "Thundershock",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 10
+        },
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Thunderpunch",
+          "effect": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Electabuzz does 10 damage to itself.",
+          "damage": "30+"
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Electrode",
+      "image": "https://assets.tcgdex.net/en/base/base1/21/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Lightning", "Lightning", "Lightning"],
+          "name": "Electric Shock",
+          "effect": "Flip a coin. If tails, Electrode does 10 damage to itself.",
+          "damage": 50
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Pidgeotto",
+      "image": "https://assets.tcgdex.net/en/base/base1/22/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Whirlwind",
+          "effect": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)",
+          "damage": 20
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Mirror Move",
+          "effect": "If Pidgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pokémon."
+        }
+      ],
+      "rarity": "Rare"
+    },
+    {
+      "name": "Arcanine",
+      "image": "https://assets.tcgdex.net/en/base/base1/23/high.png",
+      "health": 100,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Flamethrower",
+          "effect": "Discard 1 Energy card attached to Arcanine in order to use this attack.",
+          "damage": 50
+        },
+        {
+          "cost": ["Fire", "Fire", "Colorless", "Colorless"],
+          "name": "Take Down",
+          "effect": "Arcanine does 30 damage to itself.",
+          "damage": 80
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Charmeleon",
+      "image": "https://assets.tcgdex.net/en/base/base1/24/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Slash",
+          "damage": 30
+        },
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Flamethrower",
+          "effect": "Discard 1 Energy card attached to Charmeleon in order to use this attack.",
+          "damage": 50
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Dewgong",
+      "image": "https://assets.tcgdex.net/en/base/base1/25/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Water", "Water", "Colorless"],
+          "name": "Aurora Beam",
+          "damage": 50
+        },
+        {
+          "cost": ["Water", "Water", "Colorless", "Colorless"],
+          "name": "Ice Beam",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Dratini",
+      "image": "https://assets.tcgdex.net/en/base/base1/26/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Pound",
+          "damage": 10
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Farfetch'd",
+      "image": "https://assets.tcgdex.net/en/base/base1/27/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Leek Slap",
+          "effect": "Flip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again.)",
+          "damage": 30
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Pot Smash",
+          "damage": 30
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Growlithe",
+      "image": "https://assets.tcgdex.net/en/base/base1/28/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Fire", "Colorless"],
+          "name": "Flare",
+          "damage": 20
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Haunter",
+      "image": "https://assets.tcgdex.net/en/base/base1/29/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Hypnosis",
+          "effect": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": ["Psychic", "Psychic"],
+          "name": "Dream Eater",
+          "effect": "You can't this attack unless the Defending Pokémon is Asleep.",
+          "damage": 50
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Ivysaur",
+      "image": "https://assets.tcgdex.net/en/base/base1/30/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "name": "Vine Whip",
+          "damage": 30
+        },
+        {
+          "cost": ["Grass", "Grass", "Grass"],
+          "name": "Poisonpowder",
+          "effect": "The Defending Pokémon is now Poisoned.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Jynx",
+      "image": "https://assets.tcgdex.net/en/base/base1/31/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Doubleslap",
+          "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10x"
+        },
+        {
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "name": "Meditate",
+          "effect": "Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon.",
+          "damage": "20+"
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Kadabra",
+      "image": "https://assets.tcgdex.net/en/base/base1/32/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Psychic", "Psychic"],
+          "name": "Recover",
+          "effect": "Discard 1 Energy card attached to Kadabra in order use this attack. Remove all damage counters from Kadabra."
+        },
+        {
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "name": "Super Psy",
+          "damage": 50
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Kakuna",
+      "image": "https://assets.tcgdex.net/en/base/base1/33/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Stiffen",
+          "effect": "Flip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "cost": ["Grass", "Grass"],
+          "name": "Poisonpowder",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Machoke",
+      "image": "https://assets.tcgdex.net/en/base/base1/34/high.png",
+      "health": 80,
+      "attacks": [
+        {
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "name": "Karate Chop",
+          "effect": "Does 50 damage minus 10 for each damage counter on Machoke.",
+          "damage": "50-"
+        },
+        {
+          "cost": ["Fighting", "Fighting", "Colorless", "Colorless"],
+          "name": "Submission",
+          "effect": "Machoke does 20 damage to itself.",
+          "damage": 60
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Magikarp",
+      "image": "https://assets.tcgdex.net/en/base/base1/35/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Tackle",
+          "damage": 10
+        },
+        {
+          "cost": ["Water"],
+          "name": "Flail",
+          "effect": "Does 10 damage times number of damage counters on Magikarp.",
+          "damage": "10x"
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Magmar",
+      "image": "https://assets.tcgdex.net/en/base/base1/36/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Fire Punch",
+          "damage": 30
+        },
+        {
+          "cost": ["Fire", "Fire", "Colorless"],
+          "name": "Flamethrower",
+          "effect": "Discard 1 Energy card attached to Magmar in order to use this attack.",
+          "damage": 50
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Nidorino",
+      "image": "https://assets.tcgdex.net/en/base/base1/37/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "name": "Double Kick",
+          "effect": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30x"
+        },
+        {
+          "cost": ["Grass", "Grass", "Colorless", "Colorless"],
+          "name": "Horn Drill",
+          "damage": 50
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Poliwhirl",
+      "image": "https://assets.tcgdex.net/en/base/base1/38/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Water", "Water"],
+          "name": "Amnesia",
+          "effect": "Choose 1 of defenders attacks. Defender cannot use that attack next turn."
+        },
+        {
+          "cost": ["Water", "Water", "Colorless"],
+          "name": "Doubleslap",
+          "effect": "Flip 2 coins. This attack does 30 damage times number of heads.",
+          "damage": "30x"
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Porygon",
+      "image": "https://assets.tcgdex.net/en/base/base1/39/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Conversion 1",
+          "effect": "If the Defending Pokémon has a Weakness, you may change it to a type of your choice other than Colorless."
+        },
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Conversion 2",
+          "effect": "Change Porygon's Resistance to a type of your choice other than Colorless."
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Raticate",
+      "image": "https://assets.tcgdex.net/en/base/base1/40/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Bite",
+          "damage": 20
+        },
+        {
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "name": "Super Fang",
+          "effect": "Does damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10).",
+          "damage": "?"
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Seel",
+      "image": "https://assets.tcgdex.net/en/base/base1/41/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Headbutt",
+          "damage": 10
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Wartortle",
+      "image": "https://assets.tcgdex.net/en/base/base1/42/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Water", "Colorless"],
+          "name": "Withdraw",
+          "effect": "Flip a coin. If heads, prevent all damage done to Wartortle during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "cost": ["Water", "Colorless", "Colorless"],
+          "name": "Bite",
+          "damage": 40
+        }
+      ],
+      "rarity": "Uncommon"
+    },
+    {
+      "name": "Abra",
+      "image": "https://assets.tcgdex.net/en/base/base1/43/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Psyshock",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Bulbasaur",
+      "image": "https://assets.tcgdex.net/en/base/base1/44/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass"],
+          "name": "Leech Seed",
+          "effect": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Caterpie",
+      "image": "https://assets.tcgdex.net/en/base/base1/45/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Grass"],
+          "name": "String Shot",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Charmander",
+      "image": "https://assets.tcgdex.net/en/base/base1/46/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Scratch",
+          "damage": 10
+        },
+        {
+          "cost": ["Fire", "Colorless"],
+          "name": "Ember",
+          "effect": "Discard 1 Energy card attached to Charmander in order to use this attack.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Diglett",
+      "image": "https://assets.tcgdex.net/en/base/base1/47/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Dig",
+          "damage": 10
+        },
+        {
+          "cost": ["Fighting", "Fighting"],
+          "name": "Mud Slap",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Doduo",
+      "image": "https://assets.tcgdex.net/en/base/base1/48/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Fury Attack",
+          "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10x"
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Drowzee",
+      "image": "https://assets.tcgdex.net/en/base/base1/49/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Pound",
+          "damage": 10
+        },
+        {
+          "cost": ["Psychic", "Psychic"],
+          "name": "Confuse Ray",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Gastly",
+      "image": "https://assets.tcgdex.net/en/base/base1/50/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "cost": ["Psychic"],
+          "name": "Sleeping Gas",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": ["Psychic", "Colorless"],
+          "name": "Destiny Bond",
+          "effect": "Discard 1 Energy card attached to Gastly in order to use this attack. If a Pokémon Knocks Out Gastly during your opponent's next turn, Knock Out that Pokémon."
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Koffing",
+      "image": "https://assets.tcgdex.net/en/base/base1/51/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Grass", "Grass"],
+          "name": "Foul Gas",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, it is now Confused.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Machop",
+      "image": "https://assets.tcgdex.net/en/base/base1/52/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Low Kick",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Magnemite",
+      "image": "https://assets.tcgdex.net/en/base/base1/53/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Lightning"],
+          "name": "Thunder Wave",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 10
+        },
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Selfdestruct",
+          "effect": "Does 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magnemite does 40 damage to itself.",
+          "damage": 40
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Metapod",
+      "image": "https://assets.tcgdex.net/en/base/base1/54/high.png",
+      "health": 70,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Stiffen",
+          "effect": "Flip a coin. If heads, prevent all damage done to Metapod during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "cost": ["Grass", "Grass"],
+          "name": "Stun Spore",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Nidoran♂",
+      "image": "https://assets.tcgdex.net/en/base/base1/55/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Grass"],
+          "name": "Horn Hazard",
+          "effect": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Onix",
+      "image": "https://assets.tcgdex.net/en/base/base1/56/high.png",
+      "health": 90,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Rock Throw",
+          "damage": 10
+        },
+        {
+          "cost": ["Fighting", "Fighting"],
+          "name": "Harden",
+          "effect": "During opponent's next turn, whenever 30 or less damage is done to Onix (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Pidgey",
+      "image": "https://assets.tcgdex.net/en/base/base1/57/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Whirlwind",
+          "effect": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://assets.tcgdex.net/en/base/base1/58/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Gnaw",
+          "damage": 10
+        },
+        {
+          "cost": ["Lightning", "Colorless"],
+          "name": "Thunder Jolt",
+          "effect": "Flip a coin. If tails, Pikachu does 10 damage to itself.",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Poliwag",
+      "image": "https://assets.tcgdex.net/en/base/base1/59/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Water Gun",
+          "effect": "Does 10 damage plus 10 damage for each Energy attached to Poliwag but not used to pay for this attack's Energy cost. Extra Energy after the end don't count.",
+          "damage": "10+"
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Ponyta",
+      "image": "https://assets.tcgdex.net/en/base/base1/60/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Colorless", "Colorless"],
+          "name": "Smash Kick",
+          "damage": 20
+        },
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Flame Tail",
+          "damage": 30
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Rattata",
+      "image": "https://assets.tcgdex.net/en/base/base1/61/high.png",
+      "health": 30,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Bite",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Sandshrew",
+      "image": "https://assets.tcgdex.net/en/base/base1/62/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Fighting"],
+          "name": "Sand-attack",
+          "effect": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Squirtle",
+      "image": "https://assets.tcgdex.net/en/base/base1/63/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Bubble",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 10
+        },
+        {
+          "cost": ["Water", "Colorless"],
+          "name": "Withdraw",
+          "effect": "Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. (Any other effects of attacks still happen.)"
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Starmie",
+      "image": "https://assets.tcgdex.net/en/base/base1/64/high.png",
+      "health": 60,
+      "attacks": [
+        {
+          "cost": ["Water", "Water"],
+          "name": "Recover",
+          "effect": "Discard 1 Energy card to Starmie in order to use this attack. Remove all damage counters from Starmie."
+        },
+        {
+          "cost": ["Water", "Colorless", "Colorless"],
+          "name": "Star Freeze",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Staryu",
+      "image": "https://assets.tcgdex.net/en/base/base1/65/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Water"],
+          "name": "Slap",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Tangela",
+      "image": "https://assets.tcgdex.net/en/base/base1/66/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Grass", "Colorless"],
+          "name": "Bind",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 20
+        },
+        {
+          "cost": ["Grass", "Grass", "Grass"],
+          "name": "Poisonpowder",
+          "effect": "The Defending Pokémon is now Poisoned.",
+          "damage": 20
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Voltorb",
+      "image": "https://assets.tcgdex.net/en/base/base1/67/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Colorless"],
+          "name": "Tackle",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Vulpix",
+      "image": "https://assets.tcgdex.net/en/base/base1/68/high.png",
+      "health": 50,
+      "attacks": [
+        {
+          "cost": ["Fire", "Fire"],
+          "name": "Confuse Ray",
+          "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    },
+    {
+      "name": "Weedle",
+      "image": "https://assets.tcgdex.net/en/base/base1/69/high.png",
+      "health": 40,
+      "attacks": [
+        {
+          "cost": ["Grass"],
+          "name": "Poison Sting",
+          "effect": "Flip a coin. If heads, Defending Pokémon is now Poisoned.",
+          "damage": 10
+        }
+      ],
+      "rarity": "Common"
+    }
+  ]
+}

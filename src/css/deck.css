@@ -1,0 +1,52 @@
+.pokemonCard {
+  height: 20rem;
+  padding: 1rem;
+}
+.drawButton {
+  bottom: 0;
+  right: 0;
+}
+
+#cardOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.overlay-content img {
+  max-width: 90%;
+  max-height: 80vh;
+  border-radius: 10px;
+  box-shadow: 0 0 20px white;
+}
+
+.pokemon-rare {
+  position: relative;
+  display: inline-block;
+  filter: brightness(1.2) contrast(1.3) saturate(1.8);
+  animation: foilEffect 3s infinite linear;
+  -webkit-mask-image: linear-gradient(
+    75deg,
+    rgba(255, 0, 0, 0.3) 10%,
+    rgba(255, 0, 255, 0.849) 30%,
+    rgba(255, 255, 0, 0.7) 50%,
+    rgba(255, 0, 255, 0.5) 70%,
+    rgba(0, 255, 255, 0.3) 90%
+  );
+  -webkit-mask-size: 300% 100%;
+}
+
+@keyframes foilEffect {
+  0% {
+    -webkit-mask-position: -150% 0;
+  }
+  100% {
+    -webkit-mask-position: 150% 0;
+  }
+}
