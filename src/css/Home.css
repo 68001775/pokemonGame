@@ -1,0 +1,10 @@
+.money {
+  width: 2rem;
+  margin-right: 5px;
+}
+
+.doomdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

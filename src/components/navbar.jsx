@@ -17,6 +17,9 @@ function NavBar() {
         <Link to="/sv045" className="nav-ink">
           Paldean Fates
         </Link>
+        <Link to="/swsh12_5" className="nav-ink">
+          Crown Zenith
+        </Link>
       </div>
     </nav>
   );
