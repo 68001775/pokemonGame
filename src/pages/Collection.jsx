@@ -31,6 +31,29 @@ export default function Collection() {
         break;
     }
   }
+  const imageBigger = (event, cardData) => {
+    let overlay = document.getElementById("cardOverlay");
+  
+    if (!overlay) {
+      overlay = document.createElement("div");
+      overlay.id = "cardOverlay";
+      document.body.appendChild(overlay);
+    }
+  
+    const isRare = event.target.classList.contains("pokemon-rare");
+    overlay.innerHTML = `
+      <div class="overlay-content">
+        <img src="${cardData.image}" class="${isRare ? "pokemon-rare" : ""} enlarged-card"/>
+      </div>
+    `;
+  
+    overlay.style.display = "flex";
+  
+    // Close overlay when clicking outside the image
+    overlay.onclick = (e) => {
+      if (e.target === overlay) overlay.style.display = "none";
+    };
+  };
   return (
     <div>
       <h2>Your Card Collection</h2>
@@ -47,6 +70,7 @@ export default function Collection() {
                 height: "auto",
                 border: "1px solid black",
               }}
+              onClick={(event) => imageBigger(event, card)}
             />
           ))
         ) : (
