@@ -2,14 +2,15 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  right: 0;
   background-color: #000000;
-  padding: 0.5rem 0.5rem;
+  padding: 0.5rem 2rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   z-index: 1000;
+  overflow-x: auto;
 }
 
 .navbar-brand {
@@ -19,7 +20,8 @@
 
 .navbar-links {
   display: flex;
-  gap: 2rem;
+  gap: 1.4rem;
+  white-space: nowrap;
 }
 
 .nav-link {
