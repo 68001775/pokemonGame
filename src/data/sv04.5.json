@@ -3456,7 +3456,7 @@
     },
     {
       "name": "Mr. Klins ex",
-      "image": "https://media.discordapp.net/attachments/1328202495146852406/1355223205723242556/Mr._Klins.png?ex=67e82577&is=67e6d3f7&hm=08bda823eee4b1b1b37ec31ca67aa3b63964df7b6ff0d5bf762e5ca34331fdea&=&format=webp&quality=lossless&width=858&height=1198",
+      "image": "/images/KlinsCard.png",
       "health": 800,
       "attacks": [
         {

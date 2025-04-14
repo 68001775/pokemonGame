@@ -29,7 +29,7 @@ export default function () {
     card.set = "swsh12_5";
     // Add the new card to the collection if it's not already there
     const cardExists = collection.cards.some(
-      (existingCard) => existingCard.name === card.name
+      (existingCard) => existingCard.image === card.image
     );
 
     if (!cardExists) {
@@ -69,11 +69,11 @@ export default function () {
           };
 
           var div = document.getElementById("handDiv");
+          let rareCount = 0;
 
           while (div.firstChild) {
             div.removeChild(div.firstChild);
           }
-          let rareCount = 0;
           for (let i = 0; i < 10; i++) {
             await shuffle(set);
             card = set.cards[0];
@@ -83,16 +83,19 @@ export default function () {
             card = set.cards[0];
             img.className = "pokemonCard";
             if (
-              card.rarity.includes("Rare") &&
+              card.rarity.toLowerCase().includes("rare") &&
               card.rarity !== "Rare" &&
               rareCount > 0
             ) {
               do {
                 await shuffle(set);
                 card = set.cards[0];
-              } while (card.rarity.includes("Rare") && card.rarity !== "Rare");
+              } while (
+                card.rarity.toLowerCase().includes("rare") &&
+                card.rarity !== "Rare"
+              );
             } else if (
-              card.rarity.includes("Rare") &&
+              card.rarity.toLowerCase().includes("rare") &&
               card.rarity !== "Rare" &&
               rareCount === 0
             ) {
@@ -102,6 +105,7 @@ export default function () {
             } else if (!(img.class === "pokemon-rare pokemonCard")) {
               console.log("Common Pulled");
             }
+            console.log(rareCount);
             img.src = card.image;
             saveCardToCollection(card); // Save the card to localStorage
 
@@ -114,7 +118,6 @@ export default function () {
                   document.body.appendChild(overlay);
                 }
                 if (img.className.includes("pokemon-rare")) {
-                  console.log("rare Pokemon" + img.className);
                   overlay.innerHTML = `
                 <div class="overlay-content">
                   <img src="${cardData.image}" class="pokemon-rare enlarged-card"/>

@@ -10,5 +10,9 @@
   "swsh12_5": {
     "id": "swsh12.5",
     "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.png"
+  },
+  "sv04": {
+    "id": "sv04",
+    "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.png"
   }
 }

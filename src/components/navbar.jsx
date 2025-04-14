@@ -1,11 +1,14 @@
 import { Link } from "react-router-dom";
+import React from "react";
 import "../css/navbar.css";
 
-function NavBar() {
+function NavBar({ doomDoubloons }) {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <Link to="/">Home</Link>
+        <Link to="/">
+          Home {doomDoubloons !== undefined ? `(${doomDoubloons})` : ""}
+        </Link>
       </div>
       <div className="navbar-links">
         <Link to="/Collection" className="nav-ink">
@@ -19,6 +22,9 @@ function NavBar() {
         </Link>
         <Link to="/swsh12_5" className="nav-ink">
           Crown Zenith
+        </Link>
+        <Link to="/sv04" className="nav-ink">
+          Paradox Rift
         </Link>
       </div>
     </nav>

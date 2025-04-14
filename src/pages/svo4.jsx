@@ -3,7 +3,7 @@ import React from "react";
 import base1 from "../data/base1.json";
 import logos from "../data/setLogos.json";
 import "../css/deck.css";
-import sv045 from "../data/sv04.5.json";
+import sv04 from "../data/sv04.json";
 export default function () {
   const [count, setCount] = useState(0);
   let card;
@@ -27,7 +27,7 @@ export default function () {
   // Function to save a card to the localStorage collection
   function saveCardToCollection(card) {
     const collection = getCollection();
-    card.set = "sv045";
+    card.set = "sv04";
     // Add the new card to the collection if it's not already there
     const cardExists = collection.cards.some(
       (existingCard) => existingCard.image === card.image
@@ -62,11 +62,11 @@ export default function () {
   return (
     <>
       <img
-        className="sv045 logo"
-        src={logos["sv04.5"].logo}
+        className="sv04 logo"
+        src={logos["sv04"].logo}
         onClick={async () => {
           let set = {
-            cards: sv045.pokemon,
+            cards: sv04.pokemon,
           };
           let rareCount = 0;
           var div = document.getElementById("handDiv");
@@ -82,34 +82,26 @@ export default function () {
             let img = document.createElement("img");
             await shuffle(set);
             card = set.cards[0];
-
-            if (
-              (card.name.includes("ex") || card.rarity.includes("Shiny")) &&
-              rareCount > 0
-            ) {
+            img.className = "pokemonCard";
+            if (card.rarity.toLowerCase().includes("rare") && rareCount > 0) {
               do {
                 await shuffle(set);
                 card = set.cards[0];
               } while (
-                card.name.includes("ex") ||
-                card.rarity.includes("Shiny")
+                card.rarity.toLowerCase().includes("rare") &&
+                rareCount > 0
               );
             } else if (
-              (card.name.includes("ex") || card.rarity.includes("Shiny")) &&
+              card.rarity.toLowerCase().includes("rare") &&
               rareCount === 0
             ) {
+              console.log(`Rare pulled, ${card.name}.`);
               rareCount++;
               img.className = "pokemon-rare pokemonCard";
-              saveCardToCollection(card); // Save the card to localStorage
-            }
-            if (
-              (card.name.includes("ex") || card.rarity.includes("Shiny")) !=
-              true
-            ) {
-              img.className = "pokemonCard";
-              saveCardToCollection(card); // Save the card to localStorage
             }
             img.src = card.image;
+
+            saveCardToCollection(card); // Save the card to localStorage
 
             img.onclick = (function (cardData) {
               return function () {

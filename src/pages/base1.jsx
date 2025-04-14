@@ -4,9 +4,14 @@ import base1 from "../data/base1.json";
 import logos from "../data/setLogos.json";
 import "../css/deck.css";
 import sv045 from "../data/sv04.5.json";
+import { useOutletContext } from "react-router-dom";
+
 export default function () {
   const [count, setCount] = useState(0);
   let card;
+
+  // Get doomDoubloons and setter from context
+  const { doomDoubloons, setDoomDoubloons } = useOutletContext();
 
   // Function to get the collection from localStorage
   function getCollection() {
@@ -30,7 +35,7 @@ export default function () {
     card.set = "base1";
     // Add the new card to the collection if it's not already there
     const cardExists = collection.cards.some(
-      (existingCard) => existingCard.name === card.name
+      (existingCard) => existingCard.image === card.image
     );
 
     if (!cardExists) {
@@ -65,6 +70,13 @@ export default function () {
         src={logos.base1.logo}
         className="base1 logo"
         onClick={async () => {
+          if (doomDoubloons <= 0) {
+            alert("Not enough Doom Doubloons to pull a pack!");
+            return;
+          }
+          // Subtract 1 doubloon per pack pull
+          setDoomDoubloons(doomDoubloons - 1);
+
           let set = {
             cards: base1.pokemon,
           };

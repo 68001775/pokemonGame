@@ -1,6 +1,10 @@
+import React from "react";
+import { useOutletContext } from "react-router-dom";
 import "../css/Home.css";
 
 function Home() {
+  const { doomDoubloons } = useOutletContext(); // Get the context
+
   return (
     <div>
       <h1>Welcome to Pokémon Gamble!</h1>
@@ -10,7 +14,7 @@ function Home() {
       </p>
       <div className="doomdiv">
         <img className="money" src="/DoomDoubloon.png" alt="doom doubloon" />
-        {"Doom Doubloons: "}
+        <p>Doom Doubloons: {doomDoubloons}</p>
       </div>
     </div>
   );
