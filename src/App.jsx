@@ -14,7 +14,7 @@ function AppContent() {
   const [loading, setLoading] = useState(false);
   const [doomDoubloons, setDoomDoubloons] = useState(() => {
     const savedCount = localStorage.getItem("doomDoubloons");
-    return savedCount ? JSON.parse(savedCount) : 0; // Start at saved count or zero
+    return savedCount ? JSON.parse(savedCount) : 20; // Start at saved count or zero
   });
 
   useEffect(() => {

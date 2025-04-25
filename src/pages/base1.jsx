@@ -44,6 +44,7 @@ export default function () {
       console.log("Card saved to localStorage:", card);
     } else {
       console.log("Card already in collection:", card.name);
+      setDoomDoubloons(doomDoubloons + 1);
     }
   }
 

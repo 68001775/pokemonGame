@@ -4,38 +4,36 @@ import base1 from "../data/base1.json";
 import logos from "../data/setLogos.json";
 import "../css/deck.css";
 import sv045 from "../data/sv04.5.json";
+import { useOutletContext } from "react-router-dom"; // <-- added
+
 export default function () {
   const [count, setCount] = useState(0);
   let card;
 
-  // Function to get the collection from localStorage
+  // Get doomDoubloons and setter from context
+  const { doomDoubloons, setDoomDoubloons } = useOutletContext(); // <-- added
+
   function getCollection() {
     const collectionData = localStorage.getItem("collection");
-
-    if (!collectionData) {
-      return { cards: [] }; // If no collection exists, return an empty collection
-    }
-
+    if (!collectionData) return { cards: [] };
     try {
-      return JSON.parse(collectionData); // Parse the stored JSON data
+      return JSON.parse(collectionData);
     } catch (error) {
       console.error("Error parsing collection from localStorage", error);
       return { cards: [] };
     }
   }
 
-  // Function to save a card to the localStorage collection
   function saveCardToCollection(card) {
     const collection = getCollection();
     card.set = "sv045";
-    // Add the new card to the collection if it's not already there
     const cardExists = collection.cards.some(
       (existingCard) => existingCard.image === card.image
     );
 
     if (!cardExists) {
-      collection.cards.push(card); // Add new card if not already in collection
-      localStorage.setItem("collection", JSON.stringify(collection)); // Save to localStorage
+      collection.cards.push(card);
+      localStorage.setItem("collection", JSON.stringify(collection));
       console.log("Card saved to localStorage:", card);
     } else {
       console.log("Card already in collection:", card.name);
@@ -44,14 +42,9 @@ export default function () {
 
   function shuffle(set) {
     let currentIndex = set.cards.length;
-
-    // While there remain elements to shuffle...
     while (currentIndex !== 0) {
-      // Pick a remaining element...
       let randomIndex = Math.floor(Math.random() * currentIndex);
       currentIndex--;
-
-      // And swap it with the current element.
       [set.cards[currentIndex], set.cards[randomIndex]] = [
         set.cards[randomIndex],
         set.cards[currentIndex],
@@ -65,6 +58,14 @@ export default function () {
         className="sv045 logo"
         src={logos["sv04.5"].logo}
         onClick={async () => {
+          if (doomDoubloons <= 45) {
+            alert("Not enough Doom Doubloons to pull a pack!");
+            return;
+          }
+
+          // Subtract 1 doubloon
+          setDoomDoubloons(doomDoubloons - 45);
+
           let set = {
             cards: sv045.pokemon,
           };
@@ -100,14 +101,14 @@ export default function () {
             ) {
               rareCount++;
               img.className = "pokemon-rare pokemonCard";
-              saveCardToCollection(card); // Save the card to localStorage
+              saveCardToCollection(card);
             }
             if (
-              (card.name.includes("ex") || card.rarity.includes("Shiny")) !=
+              (card.name.includes("ex") || card.rarity.includes("Shiny")) !==
               true
             ) {
               img.className = "pokemonCard";
-              saveCardToCollection(card); // Save the card to localStorage
+              saveCardToCollection(card);
             }
             img.src = card.image;
 
@@ -122,22 +123,20 @@ export default function () {
                 if (img.className.includes("pokemon-rare")) {
                   console.log("rare Pokemon" + img.className);
                   overlay.innerHTML = `
-                <div class="overlay-content">
-                  <img src="${cardData.image}" class="pokemon-rare enlarged-card"/>
-                </div>
-              `;
+                    <div class="overlay-content">
+                      <img src="${cardData.image}" class="pokemon-rare enlarged-card"/>
+                    </div>
+                  `;
                 } else {
                   console.log("Normal Pokemon" + img.className);
                   overlay.innerHTML = `
-                <div class="overlay-content">
-                  <img src="${cardData.image}" class=" enlarged-card"/>
-                </div>
-              `;
+                    <div class="overlay-content">
+                      <img src="${cardData.image}" class="enlarged-card"/>
+                    </div>
+                  `;
                 }
 
                 overlay.style.display = "flex";
-
-                // Close overlay when clicking outside the image
                 overlay.onclick = function (event) {
                   if (event.target === overlay) {
                     overlay.style.display = "none";
